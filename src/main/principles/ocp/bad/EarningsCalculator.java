@@ -1,6 +1,6 @@
-package com.solid.principles.ocp.bad;
+package src.main.principles.ocp.bad;
 
-import com.solid.principles.ocp.Video;
+import src.main.principles.ocp.Video;
 
 /**
  * @author Hugo Gois

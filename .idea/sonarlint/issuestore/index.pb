@@ -1,3 +1,21 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+`
+0com/solid/principles/srp/good/ConnectionDAO.java,8/4/8433842d2837e2216917fed6b792ee5c58ec94e7
+[
++com/solid/principles/srp/good/VideoDAO.java,e/b/eb1fae41829c3a6cc068061853d98abe91013a94
+W
+'com/solid/principles/srp/bad/Video.java,4/b/4bdc9762031b2d534bacfe7ca95e23793405c43c
+X
+(com/solid/principles/srp/good/Video.java,b/3/b3dd6bfe423ce5fadbad3f88a28e3692d09e9da7
+Z
+*com/solid/principles/ocp/bad/Category.java,f/1/f1cba76650f010f72b3b7240c83838ff73061e0f
+k
+;com/solid/principles/ocp/good/GamingEarningsCalculator.java,7/b/7b08c1507f29682a58f01b8fda2a5274969b2655
+r
+Bcom/solid/principles/ocp/good/EntertainmentEarningsCalculator.java,f/2/f2451648ef170eb84774eaaa6e6a1990461fed84
+f
+6com/solid/principles/ocp/good/IEarningsCalculator.java,0/2/02a8ee8448e5f7f6a0c73f24f222475099284cff
+n
+>com/solid/principles/ocp/good/EducationEarningsCalculator.java,6/b/6b0aa0cb9ea62d575278ac15b4ef2c6fd2d1f87e
