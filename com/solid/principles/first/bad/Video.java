@@ -5,8 +5,12 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+/**
+ * @author Hugo Gois
+ */
+
 /*
-   Single Responsibility Principle:
+   Single Responsibility Principle case:
 *  This is a good example of class with more than one responsibility.
 *  It's a Video class with some attributes and two methods. The first one (getNumberOfHoursPlayed) is ok to be there
 *  because it's a method that only calculates some value based on the class attributes.

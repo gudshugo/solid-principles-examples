@@ -4,6 +4,10 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+/**
+ * @author Hugo Gois
+ */
+
 /*
   In order to achieve the Single Responsibility Principle, it was created a Video Data Access Object (DAO) to deal with
   persistence operations related to the Video class.
