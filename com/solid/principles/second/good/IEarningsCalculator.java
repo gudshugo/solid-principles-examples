@@ -2,6 +2,10 @@ package com.solid.principles.second.good;
 
 import com.solid.principles.second.Video;
 
+/**
+ * @author Hugo Gois
+ */
+
 /*
   Then again, the Open Closed principle says that a class should be open for "extensions". To achieve this,
   we need to use polymorphism and its concepts. We need to create an interface and with that, whenever a new

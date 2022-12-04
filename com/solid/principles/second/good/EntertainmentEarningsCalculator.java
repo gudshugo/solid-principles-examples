@@ -2,6 +2,10 @@ package com.solid.principles.second.good;
 
 import com.solid.principles.second.Video;
 
+/**
+ * @author Hugo Gois
+ */
+
 /*
     Now we have a single class that calculates entertainment earnings based on the interface method.
     If, for some reason, we need to modify other types of categories earnings, this class won't be affected.
