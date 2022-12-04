@@ -1,4 +1,4 @@
-package com.solid.principles.first.bad;
+package com.solid.principles.srp.bad;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

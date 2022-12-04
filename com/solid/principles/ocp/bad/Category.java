@@ -1,4 +1,4 @@
-package com.solid.principles.second.bad;
+package com.solid.principles.ocp.bad;
 
 public enum Category {
      GAMING, EDUCATIONAL, ENTERTAINMENT;

@@ -1,4 +1,4 @@
-package com.solid.principles.first.good;
+package com.solid.principles.srp.good;
 
 import java.sql.Connection;
 import java.sql.SQLException;

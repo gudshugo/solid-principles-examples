@@ -1,15 +1,12 @@
-package com.solid.principles.second;
-
-import com.solid.principles.second.bad.Category;
+package com.solid.principles.srp.good;
 
 /**
  * @author Hugo Gois
  */
 
 /*
-   Open-closed principle case:
-   Let's say that now we have a new enum "category" referenced in the Video class, and we are going to calculate earnings
-   based on each category in another class called EarningsCalculator (go there).
+  Right now, refactoring the code, we can that the Video class has only attributes and methods
+  of its responsibility.
  */
 
 public class Video {
@@ -18,7 +15,6 @@ public class Video {
     private int time;
     private int likes;
     private int views;
-    private Category category;
 
     public String getTitle() {
         return title;
@@ -54,14 +50,6 @@ public class Video {
 
     public double getNumberOfHoursPlayed() {
         return (time / 3600.0) * views;
-    }
-
-    public Category getCategory() {
-        return category;
-    }
-
-    public void setCategory(Category category) {
-        this.category = category;
     }
 
 }

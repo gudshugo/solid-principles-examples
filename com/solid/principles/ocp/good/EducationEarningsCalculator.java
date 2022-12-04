@@ -1,6 +1,6 @@
-package com.solid.principles.second.good;
+package com.solid.principles.ocp.good;
 
-import com.solid.principles.second.Video;
+import com.solid.principles.ocp.Video;
 
 /**
  * @author Hugo Gois
