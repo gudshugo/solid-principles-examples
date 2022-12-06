@@ -13,7 +13,6 @@ import src.main.principles.ocp.Video;
   need to modify existing earnings calculator classes and only implement a new type based on the interface method.
  */
 public interface IEarningsCalculator {
-
     double calculateEarnings(Video video);
 
 }
